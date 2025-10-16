@@ -1,0 +1,1 @@
+/home/matt/Documents/code/bazaar/proj2/accountly_backend_example/accountly_client/target/debug/accountly_client: /home/matt/Documents/code/bazaar/proj2/accountly_backend_example/accountly_client/src/main.rs
